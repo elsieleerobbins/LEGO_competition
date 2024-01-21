@@ -1,0 +1,615 @@
+﻿theme_id,name,parent_id,next-up parent,theme-group,theme-group-name
+1,Technic, ,,1,Technic
+2,Arctic Technic,1, ,1,Technic
+3,Competition,1, ,1,Technic
+4,Expert Builder,1, ,1,Technic
+5,Model,1, ,1,Technic
+6,Airport,5,1,1,Technic
+7,Construction,5,1,1,Technic
+8,Farm,5,1,1,Technic
+9,Fire,5,1,1,Technic
+10,Harbor,5,1,1,Technic
+11,Off-Road,5,1,1,Technic
+12,Race,5,1,1,Technic
+13,Riding Cycle,5,1,1,Technic
+14,Robot,5,1,1,Technic
+15,Traffic,5,1,1,Technic
+16,RoboRiders,1, ,1,Technic
+17,Speed Slammers,1, ,1,Technic
+18,Star Wars,1, ,1,Technic
+19,Supplemental,1, ,1,Technic
+20,Throwbot Slizer,1, ,1,Technic
+21,Universal Building Set,1, ,1,Technic
+22,Creator, ,,22,Creator
+23,Basic Model,22, ,22,Creator
+24,Airport,23,22,22,Creator
+25,Castle,23,22,22,Creator
+26,Construction,23,22,22,Creator
+27,Race,23,22,22,Creator
+28,Harbor,23,22,22,Creator
+29,Train,23,22,22,Creator
+30,Traffic,23,22,22,Creator
+31,Creature,23,22,22,Creator
+32,Robot,23,22,22,Creator
+33,Food & Drink,23,22,22,Creator
+34,Building,23,22,22,Creator
+35,Cargo,23,22,22,Creator
+36,Fire,23,22,22,Creator
+37,Basic Set,22, ,22,Creator
+38,Model,22, ,22,Creator
+39,Traffic,38,22,22,Creator
+40,Creature,38,22,22,Creator
+41,Riding Cycle,38,22,22,Creator
+42,Airport,38,22,22,Creator
+43,Building,38,22,22,Creator
+44,Recreation,38,22,22,Creator
+45,Cargo,38,22,22,Creator
+46,Harbor,38,22,22,Creator
+47,Fire,38,22,22,Creator
+48,Supplemental,22, ,22,Creator
+49,Mecha,22, ,22,Creator
+50,Town, ,,50,Town
+51,Arctic,50, ,50,Town
+52,City,50, ,50,Town
+53,Airport,52,50,50,Town
+54,Cargo,52,50,50,Town
+55,Coast Guard,52,50,50,Town
+56,Construction,52,50,50,Town
+57,Farm,52,50,50,Town
+58,Fire,52,50,50,Town
+59,Harbor,52,50,50,Town
+60,Hospital,52,50,50,Town
+61,Police,52,50,50,Town
+62,Supplemental,52,50,50,Town
+63,Traffic,52,50,50,Town
+64,Off-Road,52,50,50,Town
+65,Arctic,52,50,50,Town
+66,Trains,52,50,50,Town
+67,Classic Town,50, ,50,Town
+68,Airport,67,50,50,Town
+69,Building,67,50,50,Town
+70,Cargo,67,50,50,Town
+71,Coast Guard,67,50,50,Town
+72,Construction,67,50,50,Town
+73,Farm,67,50,50,Town
+74,Fire,67,50,50,Town
+75,Food & Drink,67,50,50,Town
+76,Station,67,50,50,Town
+77,Harbor,67,50,50,Town
+78,Hospital,67,50,50,Town
+79,Off-Road,67,50,50,Town
+80,Police,67,50,50,Town
+81,Post Office,67,50,50,Town
+82,Race,67,50,50,Town
+83,Recreation,67,50,50,Town
+84,Supplemental,67,50,50,Town
+85,Traffic,67,50,50,Town
+86,Divers,50, ,50,Town
+87,Extreme Team,50, ,50,Town
+88,Launch Command,50, ,50,Town
+89,Outback,50, ,50,Town
+90,Paradisa,50, ,50,Town
+91,Race,50, ,50,Town
+92,Res-Q,50, ,50,Town
+93,Space Port,50, ,50,Town
+94,Town Jr.,50, ,50,Town
+95,Cargo,94,50,50,Town
+96,Coast Guard,94,50,50,Town
+97,Construction,94,50,50,Town
+98,Fire,94,50,50,Town
+99,Gas Station,94,50,50,Town
+100,Police,94,50,50,Town
+101,Race,94,50,50,Town
+102,Supplemental,94,50,50,Town
+103,Traffic,94,50,50,Town
+104,Town Plan,50, ,50,Town
+105,World City,50, ,50,Town
+106,Airport,105,50,50,Town
+107,Coast Guard,105,50,50,Town
+108,Fire,105,50,50,Town
+109,Food & Drink,105,50,50,Town
+110,Harbor,105,50,50,Town
+111,Police,105,50,50,Town
+112,Racers, ,,112,Racers
+113,Drome Racers,112, ,112,Racers
+114,Ferrari,112, ,112,Racers
+115,Lamborghini,112, ,112,Racers
+116,Power Racers,112, ,112,Racers
+117,Radio Control,112, ,112,Racers
+118,Speed Racer,112, ,112,Racers
+119,Supplemental,112, ,112,Racers
+120,Tiny Turbos,112, ,112,Racers
+121,Track System,112, ,112,Racers
+122,Williams F1,112, ,112,Racers
+123,World Racers,112, ,112,Racers
+124,Supplemental,123,112,112,Racers
+125,Xalax,112, ,112,Racers
+126,Space, ,,126,Space
+127,Alien Conquest,126, ,126,Space
+128,Blacktron I,126, ,126,Space
+129,Blacktron II,126, ,126,Space
+130,Classic Space,126, ,126,Space
+131,Exploriens,126, ,126,Space
+132,Futuron,126, ,126,Space
+133,Ice Planet 2002,126, ,126,Space
+134,Insectoids,126, ,126,Space
+135,Life On Mars,126, ,126,Space
+136,M:Tron,126, ,126,Space
+137,Mars Mission,126, ,126,Space
+138,RoboForce,126, ,126,Space
+139,Space Police I,126, ,126,Space
+140,Space Police II,126, ,126,Space
+141,Space Police III,126, ,126,Space
+142,Spyrius,126, ,126,Space
+143,Supplemental,126, ,126,Space
+144,UFO,126, ,126,Space
+145,Unitron,126, ,126,Space
+146,Galaxy Squad,126, ,126,Space
+147,Pirates, ,,147,Pirates
+148,Pirates I,147, ,147,Pirates
+149,Imperial Armada,148,147,147,Pirates
+150,Imperial Guards,148,147,147,Pirates
+151,Imperial Soldiers,148,147,147,Pirates
+152,Islanders,148,147,147,Pirates
+153,Pirates II,147, ,147,Pirates
+154,Pirates III,147, ,147,Pirates
+155,Modular Buildings, ,,155,Modular Buildings
+156,Mini,155, ,155,Modular Buildings
+157,Bricktober,155, ,155,Modular Buildings
+158,Star Wars, ,,158,Star Wars
+159,Mini,158, ,158,Star Wars
+160,Star Wars Clone Wars,159,158,158,Star Wars
+161,Star Wars Episode 2,159,158,158,Star Wars
+162,Star Wars Episode 3,159,158,158,Star Wars
+163,Star Wars Episode 4/5/6,159,158,158,Star Wars
+164,Star Wars Episode 1,159,158,158,Star Wars
+165,Star Wars Clone Wars,158, ,158,Star Wars
+166,Star Wars Episode 1,158, ,158,Star Wars
+167,Star Wars Episode 2,158, ,158,Star Wars
+168,Star Wars Episode 3,158, ,158,Star Wars
+169,Star Wars Episode 4/5/6,158, ,158,Star Wars
+170,Star Wars Other,158, ,158,Star Wars
+171,Ultimate Collector Series,158, ,158,Star Wars
+172,Star Wars Episode 1,171,158,158,Star Wars
+173,Star Wars Episode 3,171,158,158,Star Wars
+174,Star Wars Episode 4/5/6,171,158,158,Star Wars
+175,Star Wars Episode 2,171,158,158,Star Wars
+176,Planet Series 1,158, ,158,Star Wars
+177,Planet Series 2,158, ,158,Star Wars
+178,Minifig Pack,158, ,158,Star Wars
+179,Planet Series 3,158, ,158,Star Wars
+180,Planet Series 4,158, ,158,Star Wars
+181,Star Wars Episode 4/5/6,180,158,158,Star Wars
+182,Star Wars Rebels,158, ,158,Star Wars
+183,Star Wars Expanded Universe,158, ,158,Star Wars
+184,Star Wars Episode 7,158, ,158,Star Wars
+185,Star Wars Rogue One,158, ,158,Star Wars
+186,Castle, ,,186,Castle
+187,Black Falcons,186, ,186,Castle
+188,Black Knights,186, ,186,Castle
+189,Classic Castle,186, ,186,Castle
+190,Crusaders,186, ,186,Castle
+191,Dark Forest,186, ,186,Castle
+192,Dragon Knights,186, ,186,Castle
+193,Fantasy Era,186, ,186,Castle
+194,Forestmen,186, ,186,Castle
+195,Fright Knights,186, ,186,Castle
+196,Kingdoms,186, ,186,Castle
+197,Knights Kingdom I,186, ,186,Castle
+198,Knights Kingdom II,186, ,186,Castle
+199,Lion Knights,186, ,186,Castle
+200,My Own Creation,186, ,186,Castle
+201,Royal Knights,186, ,186,Castle
+202,Supplemental,186, ,186,Castle
+203,Wolfpack,186, ,186,Castle
+204,Designer Sets, ,,204,Designer Sets
+205,Building,204, ,204,Designer Sets
+206,Seasonal, ,,206,Seasonal
+207,Advent,206, ,206,Seasonal
+208,City,207,206,206,Seasonal
+209,Star Wars,207,206,206,Seasonal
+210,Belville,207,206,206,Seasonal
+211,Castle,207,206,206,Seasonal
+212,Classic Basic,207,206,206,Seasonal
+213,Clikits,207,206,206,Seasonal
+214,Creator,207,206,206,Seasonal
+215,Pirates,207,206,206,Seasonal
+216,Friends,207,206,206,Seasonal
+217,Advent Sub-Set,206, ,206,Seasonal
+218,Belville,217,206,206,Seasonal
+219,Castle,217,206,206,Seasonal
+220,City,217,206,206,Seasonal
+221,Classic Basic,217,206,206,Seasonal
+222,Clikits,217,206,206,Seasonal
+223,Creator,217,206,206,Seasonal
+224,Pirates,217,206,206,Seasonal
+225,Star Wars,217,206,206,Seasonal
+226,Friends,217,206,206,Seasonal
+227,Christmas,206, ,206,Seasonal
+228,Creator,227,206,206,Seasonal
+229,Easter,206, ,206,Seasonal
+230,Halloween,206, ,206,Seasonal
+231,Thanksgiving,206, ,206,Seasonal
+232,Valentine,206, ,206,Seasonal
+233,Train, ,,233,Train
+234,12V,233, ,233,Train
+235,4.5V,233, ,233,Train
+236,9V,233, ,233,Train
+237,My Own Creation,236,233,233,Train
+238,My Own Train,236,233,233,Train
+239,World City,236,233,233,Train
+240,RC Train,233, ,233,Train
+241,Supplemental,233, ,233,Train
+242,12V,241,233,233,Train
+243,4.5V,241,233,233,Train
+244,9V,241,233,233,Train
+245,RC Train,241,233,233,Train
+246,Harry Potter, ,,246,Harry Potter
+247,Chamber of Secrets,246, ,246,Harry Potter
+248,Goblet of Fire,246, ,246,Harry Potter
+249,Order of the Phoenix,246, ,246,Harry Potter
+250,Prisoner of Azkaban,246, ,246,Harry Potter
+251,Sorcerer's Stone,246, ,246,Harry Potter
+252,Architecture, ,,252,Architecture
+253,Skylines,252, ,252,Architecture
+254,Bulk Bricks, ,,254,Bulk Bricks
+255,Castle,254, ,254,Bulk Bricks
+256,Technic,254, ,254,Bulk Bricks
+257,Train,254, ,254,Bulk Bricks
+258,Mindstorms, ,,258,Mindstorms
+259,NXT,258, ,258,Mindstorms
+260,RCX,258, ,258,Mindstorms
+261,Star Wars,258, ,258,Mindstorms
+262,EV3,258, ,258,Mindstorms
+263,Pirates of the Caribbean, ,,263,Pirates of the Caribbean
+264,Indiana Jones, ,,264,Indiana Jones
+265,Kingdom of the Crystal Skull,264, ,264,Indiana Jones
+266,Last Crusade,264, ,264,Indiana Jones
+267,Raiders of the Lost Ark,264, ,264,Indiana Jones
+268,Temple of Doom,264, ,264,Indiana Jones
+269,Cars, ,,269,Cars
+270,Ben 10, ,,270,Ben 10
+271,Prince of Persia, ,,271,Prince of Persia
+272,SpongeBob SquarePants, ,,272,SpongeBob SquarePants
+273,Studios, ,,273,Studios
+274,Jurassic Park III,273, ,273,Studios
+275,Toy Story, ,,275,Toy Story
+276,Sculptures, ,,276,Sculptures
+277,Mosaic,276, ,276,Sculptures
+278,Model Team, ,,278,Model Team
+279,4 Juniors, ,,279,4 Juniors
+280,Jack Stone,279, ,279,4 Juniors
+281,Police,280,279,279,4 Juniors
+282,Airport,280,279,279,4 Juniors
+283,Fire,280,279,279,4 Juniors
+284,Traffic,280,279,279,4 Juniors
+285,Gas Station,280,279,279,4 Juniors
+286,Pirates,279, ,279,4 Juniors
+287,Spider-Man,279, ,279,4 Juniors
+288,Spider-Man 2,287,279,279,4 Juniors
+289,Supplemental,279, ,279,4 Juniors
+290,Town,279, ,279,4 Juniors
+291,Police,290,279,279,4 Juniors
+292,Traffic,290,279,279,4 Juniors
+293,Construction,290,279,279,4 Juniors
+294,Gas Station,290,279,279,4 Juniors
+295,Fire,290,279,279,4 Juniors
+296,Adventurers, ,,296,Adventurers
+297,Desert,296, ,296,Adventurers
+298,Dino Island,296, ,296,Adventurers
+299,Jungle,296, ,296,Adventurers
+300,Orient Expedition,296, ,296,Adventurers
+301,Other, ,,301,Other
+302,Agents, ,,302,Agents
+303,Ultra Agents,302, ,302,Agents
+304,Alpha Team, ,,304,Alpha Team
+305,Mission Deep Sea,304, ,304,Alpha Team
+306,Mission Deep Freeze,304, ,304,Alpha Team
+307,Aquazone, ,,307,Aquazone
+308,Aquanauts,307, ,307,Aquazone
+309,Aquaraiders I,307, ,307,Aquazone
+310,Aquaraiders II,307, ,307,Aquazone
+311,Aquasharks,307, ,307,Aquazone
+312,Hydronauts,307, ,307,Aquazone
+313,Stingrays,307, ,307,Aquazone
+314,Supplemental,307, ,307,Aquazone
+315,Atlantis, ,,315,Atlantis
+316,Mini,315, ,315,Atlantis
+317,Avatar, ,,317,Avatar
+318,Belville, ,,318,Belville
+319,Fairy-Tale,318, ,318,Belville
+320,Golden Land,318, ,318,Belville
+321,Hospital,318, ,318,Belville
+322,Playhouse,318, ,318,Belville
+323,Recreation,318, ,318,Belville
+324,Bionicle, ,,324,Bionicle
+325,Agori,324, ,324,Bionicle
+326,Barraki,324, ,324,Bionicle
+327,Battle Vehicles,324, ,324,Bionicle
+328,Bohrok,324, ,324,Bionicle
+329,Bohrok Va,324, ,324,Bionicle
+330,Bohrok-Kal,324, ,324,Bionicle
+331,Glatorian,324, ,324,Bionicle
+332,Glatorian Legends,324, ,324,Bionicle
+333,Matoran of Light,324, ,324,Bionicle
+334,Matoran of Mahri Nui,324, ,324,Bionicle
+335,Matoran of Mata Nui,324, ,324,Bionicle
+336,Matoran of Metru Nui,324, ,324,Bionicle
+337,Matoran of Voya Nui,324, ,324,Bionicle
+338,Mistika,324, ,324,Bionicle
+339,Phantoka,324, ,324,Bionicle
+340,Piraka,324, ,324,Bionicle
+341,Playsets,324, ,324,Bionicle
+342,Rahaga,324, ,324,Bionicle
+343,Rahi,324, ,324,Bionicle
+344,Rahkshi,324, ,324,Bionicle
+345,Stars,324, ,324,Bionicle
+346,Supplemental,324, ,324,Bionicle
+347,Titans,324, ,324,Bionicle
+348,Toa,324, ,324,Bionicle
+349,Toa Hagah,324, ,324,Bionicle
+350,Toa Hordika,324, ,324,Bionicle
+351,Toa Inika,324, ,324,Bionicle
+352,Toa Mahri,324, ,324,Bionicle
+353,Toa Metru,324, ,324,Bionicle
+354,Toa Nuva,324, ,324,Bionicle
+355,Tohunga,324, ,324,Bionicle
+356,Turaga,324, ,324,Bionicle
+357,Vahki,324, ,324,Bionicle
+358,Visorak,324, ,324,Bionicle
+359,Warriors,324, ,324,Bionicle
+360,Protectors,324, ,324,Bionicle
+361,Skull Spiders,324, ,324,Bionicle
+362,Toa Okoto,324, ,324,Bionicle
+363,Boat, ,,363,Boat
+364,Building Set with People, ,,364,Building Set with People
+365,Classic, ,,365,Classic
+366,Basic Set,365, ,365,Classic
+367,Building,365, ,365,Classic
+368,HO 1:87 Vehicles,365, ,365,Classic
+369,Jumbo Bricks,365, ,365,Classic
+370,Mosaic,365, ,365,Classic
+371,Supplemental,365, ,365,Classic
+372,Town Plan,365, ,365,Classic
+373,Vehicle,365, ,365,Classic
+374,Airport,373,365,365,Classic
+375,Farm,373,365,365,Classic
+376,Fire,373,365,365,Classic
+377,Harbor,373,365,365,Classic
+378,Traffic,373,365,365,Classic
+379,Supplemental,373,365,365,Classic
+380,Train,373,365,365,Classic
+381,Construction,373,365,365,Classic
+382,Cargo,373,365,365,Classic
+383,Wooden Box Set,365, ,365,Classic
+384,Dino 2010, ,,384,Dino 2010
+385,Dino Attack, ,,385,Dino Attack
+386,Dinosaurs, ,,386,Dinosaurs
+387,Discovery, ,,387,Discovery
+388,Disney's Mickey Mouse, ,,388,Disney's Mickey Mouse
+389,Exo-Force, ,,389,Exo-Force
+390,Fabuland, ,,390,Fabuland
+391,Hospital,390, ,390,Fabuland
+392,Post Office,390, ,390,Fabuland
+393,Harbor,390, ,390,Fabuland
+394,Airport,390, ,390,Fabuland
+395,Fire,390, ,390,Fabuland
+396,Police,390, ,390,Fabuland
+397,Factory, ,,397,Factory
+398,FIRST LEGO League, ,,398,FIRST LEGO League
+399,Freestyle, ,,399,Freestyle
+400,Hero Factory, ,,400,Hero Factory
+401,Heroes,400, ,400,Hero Factory
+402,Vehicles,400, ,400,Hero Factory
+403,Villains,400, ,400,Hero Factory
+404,Hobby Sets, ,,404,Hobby Sets
+405,Homemaker, ,,405,Homemaker
+406,Inventor, ,,406,Inventor
+407,Island Xtreme Stunts, ,,407,Island Xtreme Stunts
+408,LEGO Brand Store, ,,408,LEGO Brand Store
+409,Monthly Mini Model Build,408, ,408,LEGO Brand Store
+410,Pick A Model,408, ,408,LEGO Brand Store
+411,Legoland, ,,411,Legoland
+412,Airport,411, ,411,Legoland
+413,Building,411, ,411,Legoland
+414,Castle,411, ,411,Legoland
+415,Coast Guard,411, ,411,Legoland
+416,Construction,411, ,411,Legoland
+417,Fire,411, ,411,Legoland
+418,Gas Station,411, ,411,Legoland
+419,Harbor,411, ,411,Legoland
+420,Hospital,411, ,411,Legoland
+421,Police,411, ,411,Legoland
+422,Space,411, ,411,Legoland
+423,Vehicle,411, ,411,Legoland
+424,Western,411, ,411,Legoland
+425,Legoland Parks, ,,425,Legoland Parks
+426,Bionicle,425, ,425,Legoland Parks
+427,Holiday,425, ,425,Legoland Parks
+428,Christmas,425, ,425,Legoland Parks
+429,Halloween,425, ,425,Legoland Parks
+430,Pirates,425, ,425,Legoland Parks
+431,Star Wars,425, ,425,Legoland Parks
+432,Master Building Academy, ,,432,Master Building Academy
+433,Minitalia, ,,433,Minitalia
+434,Ninja, ,,434,Ninja
+435,Ninjago, ,,435,Ninjago
+436,Airjitzu,435, ,435,Ninjago
+437,Pharaoh's Quest, ,,437,Pharaoh's Quest
+438,Power Functions, ,,438,Power Functions
+439,Power Miners, ,,439,Power Miners
+440,Primo, ,,440,Primo
+441,Quatro, ,,441,Quatro
+442,Rock Raiders, ,,442,Rock Raiders
+443,Service Packs, ,,443,Service Packs
+444,Adventurers,443, ,443,Service Packs
+445,Aquazone,443, ,443,Service Packs
+446,Belville,443, ,443,Service Packs
+447,Castle,443, ,443,Service Packs
+448,Fabuland,443, ,443,Service Packs
+449,Pirates,443, ,443,Service Packs
+450,Primo,443, ,443,Service Packs
+451,Scala,443, ,443,Service Packs
+452,Space,443, ,443,Service Packs
+453,Technic,443, ,443,Service Packs
+454,Town,443, ,443,Service Packs
+455,Classic Town,454,443,443,Service Packs
+456,Train,443, ,443,Service Packs
+457,Western¬†,443, ,458,Sports
+458,Sports, ,,458,Sports
+459,Basketball,458, ,458,Sports
+460,Gravity Games,458, ,458,Sports
+461,Hockey,458, ,458,Sports
+462,Soccer,458, ,458,Sports
+463,Spybiotics, ,,463,Spybiotics
+464,Time Cruisers, ,,464,Time Cruisers
+465,Universal Building Set, ,,465,Universal Building Set
+466,Airport,465, ,465,Universal Building Set
+467,Basic,465, ,465,Universal Building Set
+468,Basic Model,465, ,465,Universal Building Set
+469,Basic Set,465, ,465,Universal Building Set
+470,Classic Basic,465, ,465,Universal Building Set
+471,Ferries,465, ,465,Universal Building Set
+472,Gears,465, ,465,Universal Building Set
+473,Supplemental,465, ,465,Universal Building Set
+474,Vikings, ,,474,Vikings
+475,Western, ,,475,Western
+476,Cowboys,475, ,475,Western
+477,Indians,475, ,475,Western
+478,X-Pod, ,,478,X-Pod
+479,Creator,478, ,478,X-Pod
+480,Znap, ,,480,Znap
+481,Dino, ,,481,Dino
+482,Super Heroes, ,,482,Super Heroes
+483,Guardians of the Galaxy,482, ,482,Super Heroes
+484,Batman,482, ,482,Super Heroes
+485,Ultimate Collector Series,484,482,482,Super Heroes
+486,Justice League,482, ,482,Super Heroes
+487,Avengers,482, ,482,Super Heroes
+488,Spider-Man,482, ,482,Super Heroes
+489,Superman,482, ,482,Super Heroes
+490,Iron Man,482, ,482,Super Heroes
+491,X-Men,482, ,482,Super Heroes
+492,Constraction,482, ,482,Super Heroes
+493,Marvel,482, ,482,Super Heroes
+494,Friends, ,,494,Friends
+495,Jungle Rescue,494, ,494,Friends
+496,Animals,494, ,494,Friends
+497,Books, ,,497,Books
+498,Technic,497, ,497,Books
+499,Train,497, ,497,Books
+500,Clikits, ,,500,Clikits
+501,Gear, ,,501,Gear
+502,Game,501, ,501,Gear
+503,Key Chain,501, ,501,Gear
+504,Duplo, ,,504,Duplo
+505,Basic Set,504, ,504,Duplo
+506,Cars,504, ,504,Duplo
+507,Educational and Dacta, ,,507,Educational and Dacta
+508,4 Juniors,507, ,507,Educational and Dacta
+509,Adventurers,507, ,507,Educational and Dacta
+510,Boat,507, ,507,Educational and Dacta
+511,Building Set with People,507, ,507,Educational and Dacta
+512,Castle,507, ,507,Educational and Dacta
+513,Classic,507, ,507,Educational and Dacta
+514,Creator,507, ,507,Educational and Dacta
+515,Dinosaurs,507, ,507,Educational and Dacta
+516,Explore,507, ,507,Educational and Dacta
+517,Learning,507, ,507,Educational and Dacta
+518,Mindstorms,507, ,507,Educational and Dacta
+519,NXT,518,507,507,Educational and Dacta
+520,RCX,518,507,507,Educational and Dacta
+521,WeDo,518,507,507,Educational and Dacta
+522,Primo,507, ,507,Educational and Dacta
+523,Samsonite,507, ,507,Educational and Dacta
+524,Service Packs,507, ,507,Educational and Dacta
+525,Technic,524,507,507,Educational and Dacta
+526,Soft Bricks,507, ,507,Educational and Dacta
+527,Space,507, ,507,Educational and Dacta
+528,Supplemental,507, ,507,Educational and Dacta
+529,Technic,507, ,507,Educational and Dacta
+530,Control Lab,529,507,507,Educational and Dacta
+531,eLAB,529,507,507,Educational and Dacta
+532,Supplemental,529,507,507,Educational and Dacta
+533,Town,507, ,507,Educational and Dacta
+534,Universal Building Set,507, ,507,Educational and Dacta
+535,Collectible Minifigures, ,,535,Collectible Minifigures
+536,Series 1 Minifigures,535, ,535,Collectible Minifigures
+537,Series 2 Minifigures,535, ,535,Collectible Minifigures
+538,Series 3 Minifigures,535, ,535,Collectible Minifigures
+539,Series 4 Minifigures,535, ,535,Collectible Minifigures
+540,Series 5 Minifigures,535, ,535,Collectible Minifigures
+541,Series 6 Minifigures,535, ,535,Collectible Minifigures
+542,Series 7 Minifigures,535, ,535,Collectible Minifigures
+543,Series 8 Minifigures,535, ,535,Collectible Minifigures
+544,Series 9 Minifigures,535, ,535,Collectible Minifigures
+545,Series 10 Minifigures,535, ,535,Collectible Minifigures
+546,Team GB,535, ,535,Collectible Minifigures
+547,Series 11 Minifigures,535, ,535,Collectible Minifigures
+548,Series 12 Minifigures,535, ,535,Collectible Minifigures
+549,The LEGO Movie Series,535, ,535,Collectible Minifigures
+550,The Simpsons,535, ,535,Collectible Minifigures
+551,Series 13 Minifigures,535, ,535,Collectible Minifigures
+552,Series 14 Minifigures,535, ,535,Collectible Minifigures
+553,The Simpsons Series 2,535, ,535,Collectible Minifigures
+554,Series 15 Minifigures,535, ,535,Collectible Minifigures
+555,Disney,535, ,535,Collectible Minifigures
+556,Series 16 Minifigures,535, ,535,Collectible Minifigures
+557,DFB Minifigures,535, ,535,Collectible Minifigures
+558,Monster Fighters, ,,558,Monster Fighters
+559,Value Packs, ,,559,Value Packs
+560,Universe, ,,560,Universe
+561,The Hobbit and Lord of the Rings, ,,561,The Hobbit and Lord of the Rings
+562,The Hobbit,561, ,561,The Hobbit and Lord of the Rings
+563,An Unexpected Journey,562,561,561,The Hobbit and Lord of the Rings
+564,The Desolation of Smaug,562,561,561,The Hobbit and Lord of the Rings
+565,The Battle of the Five Armies,562,561,561,The Hobbit and Lord of the Rings
+566,The Lord of the Rings,561, ,561,The Hobbit and Lord of the Rings
+567,The Fellowship of the Ring,566,561,561,The Hobbit and Lord of the Rings
+568,The Two Towers,566,561,561,The Hobbit and Lord of the Rings
+569,The Return of the King,566,561,561,The Hobbit and Lord of the Rings
+570,Teenage Mutant Ninja Turtles, ,,570,Teenage Mutant Ninja Turtles
+571,Legends of Chima, ,,571,Legends of Chima
+572,Speedorz,571, ,571,Legends of Chima
+573,Constraction,571, ,571,Legends of Chima
+574,Legend Beasts,571, ,571,Legends of Chima
+575,The Lone Ranger, ,,575,The Lone Ranger
+576,LEGO Ideas and CUUSOO, ,,576,LEGO Ideas and CUUSOO
+577,Minecraft, ,,577,Minecraft
+578,The LEGO Movie, ,,578,The LEGO Movie
+579,Disney Princess, ,,579,Disney Princess
+580,Mixels, ,,580,Mixels
+581,Series 1,580, ,580,Mixels
+582,Series 2,580, ,580,Mixels
+583,Series 3,580, ,580,Mixels
+584,Series 4,580, ,580,Mixels
+585,Series 5,580, ,580,Mixels
+586,Series 6,580, ,580,Mixels
+587,Series 7,580, ,580,Mixels
+588,Series 8,580, ,580,Mixels
+589,Series 9,580, ,580,Mixels
+590,Fusion, ,,590,Fusion
+591,Juniors, ,,591,Juniors
+592,DC Comics Super Heroes,591, ,591,Juniors
+593,Disney Princess,591, ,591,Juniors
+594,Fantasy,591, ,591,Juniors
+595,Friends,591, ,591,Juniors
+596,Marvel Super Heroes,591, ,591,Juniors
+597,Nijago,591, ,591,Juniors
+598,Promotional, ,,598,Promotional
+599,LEGO Exclusive, ,,599,LEGO Exclusive
+600,Elves, ,,600,Elves
+601,Speed Champions, ,,601,Speed Champions
+602,Jurassic World, ,,602,Jurassic World
+603,Scooby-Doo, ,,603,Scooby-Doo
+604,Dimensions, ,,604,Dimensions
+605,Nexo Knights, ,,605,Nexo Knights
+606,Angry Birds, ,,606,Angry Birds
+607,Ghostbusters, ,,607,Ghostbusters
+608,Disney, ,,608,Disney
+609,The LEGO Batman Movie,535, ,535,Collectible Minifigures
+610,Brickheadz, ,,610,Brickheadz
+611,Series 17 Minifigures,535, ,535,Collectible Minifigures
+612,Star Wars Episode 8,158, ,158,Star Wars
+613,Freemakers,158, ,158,Star Wars
+614,Jungle,52,50,50,Town
